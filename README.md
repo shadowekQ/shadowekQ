@@ -18,7 +18,3 @@ Najbardziej lubię słuchać: Mata, White 2115, Kizo, Tymek, Żabson, Nypel, Bia
 
 # Czy mam swoją stronę internetową?
 Może kiedyś zrobię.
-
-# Moje projekty:
-Primtery - Remont.
-Trufty - Będzie to serwer od różnych template serwerów.

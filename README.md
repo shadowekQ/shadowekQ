@@ -11,7 +11,7 @@
 > Mam na imię Adam.
 
 # Czy mam swój serwer na discordzie?
-> Obecnie jest remont serwera.
+> Nie
 
 # Jakich wykonawców lubię słuchać?
 > Najbardziej lubię słuchać: Mata, White 2115, Kizo, Tymek, Żabson, Nypel, Białas, Skute bobo
